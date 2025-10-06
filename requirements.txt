@@ -27,6 +27,7 @@ google-auth-httplib2==0.2.0
 google-generativeai==0.8.5
 googleapis-common-protos==1.70.0
 greenlet==3.2.4
+groq==0.32.0
 grpcio==1.75.1
 grpcio-status==1.71.2
 h11==0.16.0
@@ -47,6 +48,7 @@ langchain-community==0.3.30
 langchain-core==0.3.77
 langchain-experimental==0.3.4
 langchain-google-genai==2.0.10
+langchain-groq==0.3.8
 langchain-openai==0.3.34
 langchain-text-splitters==0.3.11
 langsmith==0.4.32
