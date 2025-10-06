@@ -240,4 +240,4 @@ if "df" in st.session_state:
             for plot in reversed(st.session_state.generated_plots):
                 st.subheader(plot.get("title", "Gráfico")); st.pyplot(plot["figure"]); st.divider()
 else:
-    st.info("Por favor, carregue um arquivo CSV e verifique suas chaves de API para começar.")
+    st.info("Por favor, carregue um arquivo CSV para começar.")
